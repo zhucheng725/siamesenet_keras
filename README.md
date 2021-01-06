@@ -19,6 +19,7 @@ SiameseNetwork can be used in face identification. I use this network to identif
 <br>
 So I use SiameseNetwork to train a lift layer indentification model using mnist datasets. Then you can crop the area in your image where is the lift number and save in our file. The network can compare your cropped image and lift image which floor is similar with.
 <br>
+This demo can be runned about 17 fps in nano without tensorrt. You can use trt to do inference more quickly.
 
 <br>You can look videos in YouKU as follow:<br>
 ```
