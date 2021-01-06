@@ -20,4 +20,12 @@ SiameseNetwork can be used in face identification. I use this network to identif
 So I use SiameseNetwork to train a lift layer indentification model using mnist datasets. Then you can crop the area in your image where is the lift number and save in our file. The network can compare your cropped image and lift image which floor is similar with.
 <br>
 
+<br>You can look videos in YouKU as follow:<br>
+```
+https://v.youku.com/v_show/id_XNTA0NTIwOTEyMA==.html
+```
+<br>
 ![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/result.gif)<br>
+<br>
+And this is my cute nano
+![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/nano.jpg)<br>
