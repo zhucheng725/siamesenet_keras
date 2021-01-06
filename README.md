@@ -24,8 +24,9 @@ So I use SiameseNetwork to train a lift layer indentification model using mnist 
 ```
 https://v.youku.com/v_show/id_XNTA0NTIwOTEyMA==.html
 ```
-<br>
-![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/result.gif)<br>
-<br>
-And this is my cute nano
-![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/nano.jpg)<br>
+
+![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/result.gif)
+
+And this is my cute nano<br>
+
+![image](https://github.com/zhucheng725/siamesenet_keras/blob/main/nano.jpg)
